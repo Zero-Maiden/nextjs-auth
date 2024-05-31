@@ -1,16 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>nextjs-auth</h1>
+
+This is a [Next.js](https://nextjs.org/) point-of-sale (POS) front-end project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) for [Zero-Maiden/flask-server]().
+
+## Requirements
+
+* Node.js (`npm` and `npx`) for front-end dependencies.
 
 ## Getting Started
 
-First, run the development server:
+1. Clone this repository
+```bash
+$ git clone https://github.com/Zero-Maiden/nextjs-auth.git
+```
 
+<br>
+
+2. Go into the repository directory
+```bash
+$ cd nextjs-auth
+```
+
+<br>
+
+3. Install all the package dependencies
+```bash
+$ npm install
+```
+
+<br>
+
+4. Run the development server
 ```bash
 npm run dev
-# or
+
+# for those who uses yarn
 yarn dev
-# or
+
+# for those who uses pnpm
 pnpm dev
-# or
+
+# for those who uses bun
 bun dev
 ```
 
