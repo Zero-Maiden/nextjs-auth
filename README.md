@@ -1,6 +1,6 @@
 <h1>nextjs-auth</h1>
 
-This is a [Next.js](https://nextjs.org/) point-of-sale (POS) front-end project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) for [Zero-Maiden/flask-server]().
+This is a [Next.js](https://nextjs.org/) point-of-sale (POS) front-end project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) alongside shadcn/ui as the UI library for [Zero-Maiden/flask-server]().
 
 ## Requirements
 
